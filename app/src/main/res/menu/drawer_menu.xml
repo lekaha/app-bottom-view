@@ -11,9 +11,8 @@
         app:showAsAction="ifRoom"/>
 
     <item
-        android:id="@+id/app_bar_search"
-        android:icon="@drawable/ic_action_search"
-        android:title="@string/action_search"
-        android:showAsAction="ifRoom"
+        android:id="@+id/app_bar_settings"
+        android:title="@string/action_settings"
+        android:showAsAction="never"
         app:showAsAction="ifRoom"/>
 </menu>
