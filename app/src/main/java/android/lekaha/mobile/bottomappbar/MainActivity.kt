@@ -1,12 +1,12 @@
 package android.lekaha.mobile.bottomappbar
 
 import android.os.Bundle
+import android.support.v4.view.GravityCompat
+import android.support.v7.app.AppCompatActivity
+import android.support.v7.widget.LinearLayoutManager
 import android.view.Menu
 import android.view.MenuItem
-import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.GravityCompat
 import androidx.core.widget.toast
-import androidx.recyclerview.widget.LinearLayoutManager
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.layout_bottombar.*
 
